@@ -7,6 +7,12 @@
 <!-- Describe stock-ticker-react-widget here. -->
 Stock Ticker React Widget has multiple API's to help the user search for stock prices, as well as quick information about the companies that are being searched for.
 
+## Installing the Widget 
+```bash
+npm install --save stock-ticker-react-widget   # using NPM
+yarn stock-ticker-react-widget            # using yarn
+``` 
+
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
 
