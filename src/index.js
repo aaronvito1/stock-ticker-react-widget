@@ -3,6 +3,7 @@ import BarChart from "./BarChart/BarChart.js";
 import SearchStockDate from "./SearchStockDate/SearchStockDate.js";
 import SearchStockTicker from "./SearchStockTicker/SearchStockTicker.js";
 import StockData from "./StockData/StockData.js";
+import StockInfo from "./StockInfo/StockInfo.js";
 
 
 export {
@@ -10,6 +11,7 @@ export {
 	SearchStockDate,
 	SearchStockTicker,
 	StockData,
+	StockInfo,
 };
 
 // export default class extends Component {
