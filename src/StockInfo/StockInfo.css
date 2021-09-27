@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+.stock-info-section {
+  width: 50%; 
+  min-height: 150px;
+  padding: 1px;
+  box-sizing: border-box;
+  border-radius: 2px;
+  position: relative;
+}
+
+.stock-info-area {
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.stock-info-details {
+  font-weight: bold;
+}
+
+.stock-info-name {
+  text-align: center;
+  font-size: 70px;
+}

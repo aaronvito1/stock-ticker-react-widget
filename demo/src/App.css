@@ -1,0 +1,52 @@
+.container { 
+  display: grid; 
+  /*position: absolute;*/
+  border-style: solid;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.5);
+  padding: 20px;
+  box-sizing: border-box;
+  background: #5D6667;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFF;
+  margin: 0;
+  padding: 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+/*
+.Progression-bar:before {
+  content: '';
+  width: 100%;
+  left: 0;
+  height: 25px;
+  z-index: -2;
+
+}
+
+.Progression-bar:after{
+  content: '';
+  height: 25px;
+  transition: 0.8s;
+  display: block;
+  animation: animate 1 4s;
+  left: 0;
+  z-index: -1;
+}
+
+@keyframes animate {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 100%;
+  }
+}
+
+*/
+
+
