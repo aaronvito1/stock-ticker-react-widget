@@ -5,6 +5,7 @@ import StockData from './components/StockData/StockData.js';
 import SearchStockTicker from './components/SearchStockTicker/SearchStockTicker.js';
 import SearchStockDate from './components/SearchStockDate/SearchStockDate.js';
 import BarChart from './components/BarChart/BarChart.js';
+import StockInfo from './components/StockInfo/StockInfo.js';
 
 function App() {
   // State Variables

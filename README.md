@@ -13,6 +13,8 @@ npm install --save stock-ticker-react-widget   # using NPM
 yarn stock-ticker-react-widget            # using yarn
 ``` 
 
+## How to Use Widget for Projects 
+
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
 [build]: https://travis-ci.org/user/repo
 

@@ -6,6 +6,7 @@ import {
 	SearchStockDate,
 	SearchStockTicker,
 	StockData,
+	StockInfo,
 } from '../../src';
 
 function Code({children}) {
