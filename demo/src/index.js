@@ -1,6 +1,9 @@
 import React, {useState} from 'react'
 import {render} from 'react-dom'
 
+import logo from './logo.png';
+import './index.css';
+
 import {
 	BarChart,
 	SearchStockDate,
@@ -30,6 +33,7 @@ function App() {
   	<div className="Page">
 
 			<header className="Page-nav">
+			<img src={logo} className="App-logo" alt="bird" />
 				<h1 className="Page-title">
 				  Stock React Widget
 				</h1>
