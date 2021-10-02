@@ -18,18 +18,22 @@ Utilize Polygon.io's Stock API to assist users in searching for a specific Stock
 
 ## Example on How to Use 
 ```
-import React, {Component} from 'react';
-import {BarChart} from stock-ticker-react-widget
+import React from "react";
+import { BarChart } from "better-bar-charts-react"; 
 
-class App extends Component {
-	render() {
-		return (
-			<div className="App">
-			
-			)
-	}
+function App() {
+  return (
+	    <div>
+	      <BarChart />
+	    </div>
+	); 
 }
 ```
+
+## Contributing 
+Although this project was built to look simple and minimal with CSS, the project can keep evolving with more ideas. 
+
+Pull requests are welcome. Thank you and I hope to keep evolving this as well.
 
 
 [build-badge]: https://img.shields.io/travis/user/repo/master.png?style=flat-square
