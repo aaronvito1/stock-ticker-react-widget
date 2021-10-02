@@ -7,11 +7,11 @@ import StockInfo from "./StockInfo/StockInfo.js";
 
 
 export {
+	StockInfo,
 	BarChart,
 	SearchStockDate,
 	SearchStockTicker,
 	StockData,
-	StockInfo,
 };
 
 // export default class extends Component {

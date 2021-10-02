@@ -19,7 +19,7 @@ Utilize Polygon.io's Stock API to assist users in searching for a specific Stock
 ## Example on How to Use 
 ```
 import React from "react";
-import { BarChart } from "better-bar-charts-react"; 
+import { BarChart } from "stock-ticker-react-widget"; 
 
 function App() {
   return (
