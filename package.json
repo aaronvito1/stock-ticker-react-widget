@@ -1,6 +1,6 @@
 {
   "name": "stock-ticker-react-widget",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "stock-ticker-react-widget React component",
   "main": "lib/index.js",
   "module": "es/index.js",
