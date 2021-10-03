@@ -16,6 +16,8 @@ yarn stock-ticker-react-widget            # using yarn
 ## How to Use Widget for Projects 
 Utilize Polygon.io's Stock API to assist users in searching for a specific Stock's previous day open, high, low and close (OHLC).
 
+![GIF](stock-react-demo.gif)
+
 ## Example on How to Use 
 ```
 import React from "react";
